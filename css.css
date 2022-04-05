@@ -113,13 +113,18 @@ body{
     object-fit: cover;
     display: block;
 }
+.hero__photo{
+    width: 710px;
+    height: 696px;
+    object-fit: cover;
+    display: block;
+}
 .header-hero-img-2{
     position: absolute;
     width: 213px;
     height: 214px;
     top: -81px;
     left: -92px;
-    display: block;
 }
 
 
